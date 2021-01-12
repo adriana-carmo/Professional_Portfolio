@@ -24,30 +24,6 @@
     border-radius: 50%;
 }
 
-a {
-    color: #fff;
-    text-decoration: none;
-    background-color: transparent;
-}
-
-a:-webkit-any-link {
-    color: -webkit-link;
-    cursor: pointer;
-    text-decoration: underline;
-} 
-
-li {
-    text-align: -webkit-match-parent;
-}
-
-ul {
-    list-style-type: disc;
-}
-
-/* div {
-    display: block;
-} */
-
 hr {
     border: 0;
     height: 3px;

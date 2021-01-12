@@ -15,7 +15,7 @@ function Nav() {
             <li role="presentation"><a href="/about" className="">About me</a></li>
             <li role="presentation"><a href="/portfolio" className="">Portfolio</a></li>
             <li role="presentation"><a href="/contact" className="">Contact</a></li>
-            <li role="presentation"><a href="/contact" className="">Resume</a></li>
+            <li role="presentation"><a rel="noreferrer" href="https://drive.google.com/file/d/1XA13Bbg6fB8yo8Zs36Uq2Qg-uk_DLAaK/view?usp=sharing" target="_blank" className="">Resume</a></li>
           </ul>
         </div>
         <div className="col-1">

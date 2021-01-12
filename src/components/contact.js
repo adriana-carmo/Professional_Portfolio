@@ -11,9 +11,9 @@ const contact = () => {
         <p>Below are 2 ways you can contact me and my GitHub repository. </p>
         <br></br>
         <div className="text-center"> 
-            <a className="btn btn-secondary" href="mailto: dri.abedala@gmail.com" target="_blank">Email</a>
-            &nbsp;
-            <a href="https://www.linkedin.com/in/adriana-abedala-do-carmo-almeida-a03241184/" target="#"><img src={LinkedIn} className="icon_size" alt="LinkedIn"/></a>
+            <a className="btn btn-secondary btn-light" rel="noreferrer" href="mailto: dri.abedala@gmail.com" target="_blank">Email</a>
+            &nbsp;&nbsp;
+            <a rel="noreferrer" href="https://www.linkedin.com/in/adriana-abedala-do-carmo-almeida-a03241184/" target="#"><img src={LinkedIn} className="icon_size" alt="LinkedIn"/></a>
         </div>
       </div>
     </div>

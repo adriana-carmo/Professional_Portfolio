@@ -8,13 +8,6 @@
     padding: 3px;
 }
 
-/*.card:hover {
-box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
-} 
-.container {
-padding: 2px 16px;
-} */
-
 .img_project{
     align-self:center;
     border-radius: 5px 5px 0 0;
@@ -22,10 +15,3 @@ padding: 2px 16px;
     height: 200px;
     border: 2px solid white;
 }
-
-/* .container {
-    display: flex;
-    justify-content: center;
-    border-radius: 50% solid rgb(4, 4, 4);
-    background: transparent;
-} */
