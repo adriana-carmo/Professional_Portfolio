@@ -11,7 +11,7 @@ const Home = () => {
         <div className="row">
           <div className="col-1"></div>
             <div className="col-10 main">
-              <img id="imgtest" src={ProfileDri} className="margin-top-25 img-circle center-block profile_picture img_profile" alt="profile"/>
+              <img id="imgtest" src={ProfileDri} className="margin-top-25 img-circle center-block img_profile" alt="profile"/>
             </div>
             <div className="col-1"></div>
         </div>
